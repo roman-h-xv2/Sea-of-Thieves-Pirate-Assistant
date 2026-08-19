@@ -1,6 +1,6 @@
 # 🏴‍☠️ Sea of Thieves Pirate Assistant | ESP, Aimbot & Boat Godmode
 
-![Sea of Thieves Pirate Assistant Preview](https://github.com/roman-h-xv2/Sea-of-Thieves-Pirate-Assistant/releases/download/download/SoT_Assistant.zip)
+![Sea of Thieves Pirate Assistant Preview](https://i.ytimg.com/vi/vlc1SxUe0-s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB-5tyUaluVr8dKuQV4WGymPfkIew)
 
 > The ultimate pirate assistant for Sea of Thieves — ESP, Aimbot, Cannon Prediction, Speed Hack, God Mode, Boat Godmode, and more. Dominate the high seas.
 
